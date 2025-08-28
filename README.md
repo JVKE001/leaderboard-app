@@ -42,5 +42,25 @@ This is a full-stack web application that allows users to register, claim random
 ```bash
 git clone https://github.com/JVKE001/leaderboard-app.git
 cd points-claiming-app
+```
 
+### 2. Install Dependencies
+```
+cd frontend
+npm install
+```
+### 3. Run Server
+```
+cd backend
+nodemon server
+```
+
+### 4. Run Frontend
+```
+cd frontend
+npm run dev
+```
+
+# Author
+JVKE
 
