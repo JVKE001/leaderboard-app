@@ -40,7 +40,7 @@ This is a full-stack web application that allows users to register, claim random
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/your-username/points-claiming-app.git
+git clone https://github.com/JVKE001/leaderboard-app.git
 cd points-claiming-app
 
 
