@@ -61,6 +61,6 @@ cd frontend
 npm run dev
 ```
 
-# Author
+## Author
 JVKE
 
